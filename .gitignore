@@ -1,2 +1,8 @@
 .DS_Store
 .idea/
+
+# Swift Package Manager
+
+xcuserdata/
+
+.build/
