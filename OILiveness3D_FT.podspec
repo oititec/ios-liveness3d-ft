@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                 = 'OILiveness3D_FT'
-  s.version              = '9.6.89'
+  s.version              = '9.6.94'
   s.summary              = 'Framework FaceTec para OILiveness3D.'
   s.homepage             = 'https://www.oititec.com.br/'
   s.author               = 'Facetec | Oititec'
