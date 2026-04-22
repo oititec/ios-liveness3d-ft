@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "FaceTecSDK",
-            path: "Framework/FaceTecSDK.xcframework"
+            path: "Framework/Release/FaceTecSDK.xcframework"
         )
     ]
 )
