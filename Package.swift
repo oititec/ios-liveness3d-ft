@@ -1,14 +1,14 @@
-// swift-tools-version: 5.5
+// swift-tools-version: 5.9
 
 import PackageDescription
 
 let package = Package(
     name: "OILiveness3D_FT",
+    platforms: [
+        .iOS(.v12)
+    ],
     products: [
-        .library(
-            name: "OILiveness3D_FT",
-            targets: ["FaceTecSDK"]
-        ),
+        .library(name: "FaceTecSDK", targets: ["FaceTecSDK"]),
     ],
     targets: [
         .binaryTarget(
