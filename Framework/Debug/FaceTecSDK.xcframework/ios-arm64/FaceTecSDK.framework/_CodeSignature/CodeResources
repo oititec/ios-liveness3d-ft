@@ -14,11 +14,11 @@
 		</data>
 		<key>Headers/FaceTecPublicApi.h</key>
 		<data>
-		3yzYXTKTdiy6Om9QFoPsWNvREsA=
+		E62HQHzk1U0j1unGZxhx2G5I0b4=
 		</data>
 		<key>Headers/FaceTecPublicStringKeys.h</key>
 		<data>
-		EKIsgDcyG5yB4HfaArP0+h1liyE=
+		swfEdxZPxJMo/zmN3qEi7tOGdTs=
 		</data>
 		<key>Headers/FaceTecSDK.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		pTMV4QoLErgFPYXXjE1DcemkrPM=
+		bxd7yh2DSahjAJfEW142Ewt4vKg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Storyboard.storyboardc/9Uo-4b-JiE-view-Ae0-rb-UqS.nib</key>
 		<data>
-		YS8H3AzDckreG6DUsOOR0F2cfUo=
+		1MozMGpeFVrTWRbRbzwGORuxJes=
 		</data>
 		<key>Storyboard.storyboardc/CJ6-MX-bJp-view-8JL-Rc-0g1.nib</key>
 		<data>
@@ -94,11 +94,11 @@
 		</data>
 		<key>Storyboard.storyboardc/alz-Ia-X3d-view-IKu-EI-Hug.nib</key>
 		<data>
-		ONZuEJWDOgschMh6TWqc/gbnnl0=
+		2/G5CrLk3MPWsFRxeksq+Wnqts0=
 		</data>
 		<key>Storyboard.storyboardc/l2Q-cc-kD8-view-UUy-6c-meu.nib</key>
 		<data>
-		BDeRicOIVKnBI2JmezL0mxLLBLM=
+		XGxr8Lp9jfH2uJztX01FNvvOswM=
 		</data>
 		<key>af.lproj/FaceTec.strings</key>
 		<dict>
@@ -124,51 +124,51 @@
 		</data>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/1f5b84f51ce0fcfbb76e904b7bcaa7560f601e1394a0b29367a09385312287eb</key>
 		<data>
-		5TdDwhatlGI4eyGp1DH9tgb8ruw=
+		hgT8olxxtyTNDBGuZ/WMj4ifZO8=
 		</data>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/2b075ac1a6132b5b8a4c9ef0ba6b0cd84db7838aca9a000e50d907f40770a4ab</key>
 		<data>
-		dAkpLtTv6loUP7h4K5fxpRd1X9U=
+		IIqiJeKvGYj34CeL8uySR8JrKPc=
 		</data>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/59cc2a9af81aaca2376702c2490650f4da2775fa673274db98aad41b7ef101c0</key>
 		<data>
-		r7eUp6seXNzA/cmVJmRqKGjCn3U=
+		oXqw4BA8l4MvRIhdEGygEpG1nTc=
 		</data>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/5b63e98b991aedabb60665503384f30bffd939decf9433883b30b78011ee501a</key>
 		<data>
-		DYvChd/h9P0QVbeJv8Kof2MYKCo=
+		Y7w4/A0Ncr/ZBblp0a4tSHcooWs=
 		</data>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/66388dc76dc16bc6b76b682edd218a575bf45b9b</key>
 		<data>
-		84cqqyHW6gHIGhWdtP0OHD9k/q4=
+		dIyiPAoAHBhcwXuv7da/+dVwWiw=
 		</data>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/6b3133f0f39ff89a2a169d61176ee17cafacc5e288f334e2b64ee82892d11ccd</key>
 		<data>
-		nVnRgrYssqfvGVT8D1csf5mBSJQ=
+		2GomHIws+Gg8f8vcyQqVq/2Qu0A=
 		</data>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/9077d16225f9314163ef1e7db6fc7d4088bb903d134bd95f23d5591ca4dfbfca</key>
 		<data>
-		fFbqLkSU2dy07+CEiECcao9ZrG8=
+		JH/steBHtyAYnEVqI5uQi0iFBLQ=
 		</data>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/a74f2afb9d20f2375ccbd14e67c094b85c89ceb608f7cf8ae04f3f646a6c5672</key>
 		<data>
-		wUMP5H1hp/QVGnKAqfrNgEceQ40=
+		RS9hsuRnqirdd4H7djmUgD6OH9I=
 		</data>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/b501893e75f62ee1707643e35b21109927b07ed5b202321c961b424cbc2e4695</key>
 		<data>
-		0s99/X9D4xsL14m3PEGd1VP9MMY=
+		v2ZNK043euySYdBMBfrVD8eUjwo=
 		</data>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/dbd7a353f0130bb983d6ba05917e9be991d70e8f028df4b74e30bc6497ef7f71</key>
 		<data>
-		YuWUYQ/jwt4e8V6mK0Hk9N5nHdQ=
+		i6iCPeS5WIYn06G93PLT/X+EkCA=
 		</data>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/f2.xml</key>
 		<data>
-		W6i05NIPMmmstYJjaNmnPaPiP2c=
+		IcWQwg+lPF00sF8UAkdOhrtIDK4=
 		</data>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/fd6d368a5658496536e2bfae170d1b823a3629b242cafc09784bfba4e56d8c80</key>
 		<data>
-		RZzLcIf1gM70gsoxAlN6Z4mKno4=
+		fGHW1q9o8dnl7qUbHHtbsmqmCpA=
 		</data>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/marker</key>
 		<data>
@@ -176,7 +176,7 @@
 		</data>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/vu0ilin6we3lrzo5f83f7qs2jul4aq7v4aoynrmch8zfvpi8ezrfyafa4t0fx87l</key>
 		<data>
-		Ijp8IxGKii0BnsYzcYtzr77CRE0=
+		gP4nc0OM3CO+6wzmVGHhnPtgZ78=
 		</data>
 		<key>de.lproj/FaceTec.strings</key>
 		<dict>
@@ -200,7 +200,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NYJ14JLx2PIIDhHUHYj/EPZAUE0=
+			AmbKuqQsW4qm32H21GkF3xf0DGc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -288,14 +288,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			l0Y5k37ZNmLcXs3/pOeO6c1z2yIids56zQYcZRrygJs=
+			HmPZQ9qMtbRTYPfugIf+rLw88R1t5J8vaZsZ8mVVx0A=
 			</data>
 		</dict>
 		<key>Headers/FaceTecPublicStringKeys.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ht2RUv0BzPAdbXDXh6ymx97saE6SA31t4ov1ijov8Ng=
+			9IVCeTYz2vB6eoDf+DX2lmpQ7rK+920iIIk/m4kkCUo=
 			</data>
 		</dict>
 		<key>Headers/FaceTecSDK.h</key>
@@ -344,7 +344,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ui9r1hIOSmZMMXEoYNPI36hdegIVRFVO3Wn7XVz7nfw=
+			OCWpBKiU8qWh/H/Pu7P51/Jm1UreU4DTk+IJJ0MI4rM=
 			</data>
 		</dict>
 		<key>Storyboard.storyboardc/CJ6-MX-bJp-view-8JL-Rc-0g1.nib</key>
@@ -421,14 +421,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3ImYcbxFkgoAPn6uLfsZb4EZ1dToy6ALyHh/y3ZbaXg=
+			kJXalaVPMRnR3TCKk57o7GizSpWKZV7K6m5vh6d7jvM=
 			</data>
 		</dict>
 		<key>Storyboard.storyboardc/l2Q-cc-kD8-view-UUy-6c-meu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XApOU28weSMc9mhVXAo+vdRsUIrqZkh16/bI2YA8TVM=
+			QK2/z0x8Yb1NcL8ypCX6tlmTCZ6xm0lcZojTEYcpgqU=
 			</data>
 		</dict>
 		<key>af.lproj/FaceTec.strings</key>
@@ -460,84 +460,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4pOQ5U99Z1g3RTi2tpmmGyGFwp0+IkHDeidH/OpiIlY=
+			2hLwBG55+tROklnp8/hKnpxZ4VF1lA06V/CkUzBjwec=
 			</data>
 		</dict>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/2b075ac1a6132b5b8a4c9ef0ba6b0cd84db7838aca9a000e50d907f40770a4ab</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			07+I0h7cKMhRhfdgXO5M1JpYX2yWB+Lb/zjO4n3F4zM=
+			yjNnSBA8VgaPkzpyifPW17oGIeS7CJZ2RZNKwdyr0JU=
 			</data>
 		</dict>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/59cc2a9af81aaca2376702c2490650f4da2775fa673274db98aad41b7ef101c0</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/QeMZiPacp7UjPqd6XEhJXoygYqBnVNCfWf6cxhXGSg=
+			wYaV9iIvTnFGMJtbQH4UxL/D7AvrW9m3j0KJZb1Nii0=
 			</data>
 		</dict>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/5b63e98b991aedabb60665503384f30bffd939decf9433883b30b78011ee501a</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			863EBonnWbd8iqzd6Jp0dJNY5wQBozXp/Ja3Xkb0QFs=
+			XwR9BhvdRqbAhTmaJbdcwkUMarXyG/wsT2dv8XcwuX0=
 			</data>
 		</dict>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/66388dc76dc16bc6b76b682edd218a575bf45b9b</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3if+N7f1tyrc9dTGkBzpbROjUCmsGhMSxVYMbhXxvh0=
+			ZkRDncgBZTwDSPqieQR8CMf5kIniRh/pXDFjAzmyM7A=
 			</data>
 		</dict>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/6b3133f0f39ff89a2a169d61176ee17cafacc5e288f334e2b64ee82892d11ccd</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3SmS5ecECfH0btH30sb0sQnCirv5C8732f+VRD1nJq8=
+			U0r/5Il7mLFHHgo4YRnalU90A//QMjUPxTTqmoADcWk=
 			</data>
 		</dict>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/9077d16225f9314163ef1e7db6fc7d4088bb903d134bd95f23d5591ca4dfbfca</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JIBUCfDhegZ3LnHgKfpe9ExlZFx10uDq+cZedjnj7hA=
+			gFQ9VuOxISgeo93wx5z6jA5RRRGICsGlku3l4Ig2JjQ=
 			</data>
 		</dict>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/a74f2afb9d20f2375ccbd14e67c094b85c89ceb608f7cf8ae04f3f646a6c5672</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vBaHcawLN3jBq52TI2vgjKJQqRK0hj3vV9gcUD9lYGs=
+			pfCFGmbsxE6hcLaBp83YWgInFVQ1xG1sr4k12kHBquU=
 			</data>
 		</dict>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/b501893e75f62ee1707643e35b21109927b07ed5b202321c961b424cbc2e4695</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yMi6hfxP/vFrM/n6p7lo2dNKUqiEopYrCxgznMS+T0A=
+			y0sI6IC4QhHhO/An7M9edb2giJmL6qdqlm/BmxB7yx4=
 			</data>
 		</dict>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/dbd7a353f0130bb983d6ba05917e9be991d70e8f028df4b74e30bc6497ef7f71</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1NJEcqegVxu4t89yTbhnxLtB48zF9xNcFcHkMi17a28=
+			blWFSwTWJI4QofjmYABGoC1zEjsYc3IrMHuamr82lRI=
 			</data>
 		</dict>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/f2.xml</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			k0RJwYeNYAZ2s1ZUMhmwfcoR3rqJj1qhjgzhH8yAWaI=
+			H6POmLSJ72DlxtL8/prrqnteZ4ZAAZ8JHzemV5RYkyM=
 			</data>
 		</dict>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/fd6d368a5658496536e2bfae170d1b823a3629b242cafc09784bfba4e56d8c80</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rkAy3TcHMyh1ASaBC0h0o1BlUg6WBSl9lNr9ggaz1IA=
+			8zc0IHd/ZdIprHq3BAmHjNHcre1vNF3FxiOQtchOZDE=
 			</data>
 		</dict>
 		<key>cache_uyertuazlkxcjrlwkejr/39bb748b334003e3fa/marker</key>
@@ -551,7 +551,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OS4oiFHLyprj7fLU4/zR+p1yNOpLB+r42/mjmIVi90k=
+			Uc267LIQM57uOiCzowodx1HXhwQLb7At6p0hykx9+Dc=
 			</data>
 		</dict>
 		<key>de.lproj/FaceTec.strings</key>
@@ -576,7 +576,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ike2ZGT5S2DPmH/PdjR2FcBmBs3o3UhDLJbn1T+pyUg=
+			PF0JD2cHntBcaSVxYQ8217ILkEvTi7QWcRf/Fi6jaIc=
 			</data>
 			<key>optional</key>
 			<true/>
