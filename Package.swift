@@ -2,6 +2,8 @@
 
 import PackageDescription
 
+let version = "9.7.142"
+
 let package = Package(
     name: "OILiveness3D_FT",
     platforms: [
